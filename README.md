@@ -5,6 +5,8 @@ Notes from a weekly meeting with programmers trying to enhance coding skills
 
 [August 18 Meeting - Making Anagrams](meetings/august-18.md)
 
+[August 24 Meeting - Designing Pinterest](meetings/august-24.md)
+
 # Useful Links
 
 * [HackerRank Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit)
