@@ -7,7 +7,7 @@ Notes from a weekly meeting with programmers trying to enhance coding skills
 
 [August 24 Meeting - Designing Pinterest](meetings/august-24.md)
 
-[September 01 Meeting - Designing TinyUrl](meetings/september-01.md)
+[September 01 Meeting - Sherlock and the Valid String](meetings/september-01.md)
 
 [September 08 Meeting - Designing TinyUrl](meetings/august-08.md)
 
